@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(0, 0, 0);
+    background-image: url("4.png");
+   background-attachment: fixed;
+   background-size: cover;
     color: rgb(253, 249, 247);
 }
 #header{
