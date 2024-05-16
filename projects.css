@@ -102,3 +102,13 @@ nav ul li a:hover::after{
     opacity: 1; /* Force content visibility */
     height: 100%; /* Expand content area */
   }
+.footer{
+    background-color: rgb(31, 31, 31);
+    color: rgb(81, 81, 81);
+    display: flex;
+    align-items : center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    padding:36px 148px;
+}
